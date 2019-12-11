@@ -1,5 +1,4 @@
-# Google-Home-Page
-Designed google home page
+# Google-Home-Page using html/css/bootstrap
 <Doctype html!>
 <html>
 <head><title>Google Home Page</title>

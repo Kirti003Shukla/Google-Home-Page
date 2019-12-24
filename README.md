@@ -30,10 +30,10 @@ lang{padding:4px;}
 
 <body  >
 <div style="float:right;color:black;margin-top:15px;">
-<a style="color:black;padding-right:10px;">Gmail</a>
+<a href="https://accounts.google.com/" style="color:black;padding-right:10px;">Gmail</a>
 <a style="color:black;padding-right:10px;"> Images</a>
 <i class="material-icons"><a style="color:black;font-size:21px;padding-right:10px;">apps</a></i>
-<button type="button" class="btn btn-primary" style="color:white;background-color:3393ff;margin-right:30px;border:none;">Sign in</button></div>
+<button type="button" onclick="window.location.href='https://accounts.google.com/'" class="btn btn-primary" style="color:white;background-color:3393ff;margin-right:30px;border:none;">Sign in</button></div>
 <div class="centered">
 <div>
 <div class="Gg" >G</div>
